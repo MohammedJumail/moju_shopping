@@ -1,6 +1,6 @@
 # moju_shopping
 
-A new Flutter project.
+Home Screen Sample for an E-Commerce App
 
 ## Getting Started
 
